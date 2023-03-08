@@ -19,9 +19,9 @@ Zodra de tekstgegevens zijn gescrapet, moeten ze worden voorbewerkt. Dit omvat v
 tokenisatie, zinssegmentatie en onderdelen van spraakmarkering. Tokenisatie houdt in dat de tekstgegevens in individuele 
 woorden of tokens worden opgesplitst. Zinssegmentatie houdt in dat de tekstgegevens in zinnen worden verdeeld. 
 Onderdelen van spraakmarkering houdt in dat het deel van de spraak voor elk woord in de tekstgegevens wordt 
-geïdentificeerd.
-Stap 4: Het creëren van het taalmodel
-Zodra de tekstgegevens zijn voorbewerkt, kunnen ze worden gebruikt om het taalmodel te creëren. Dit omvat het gebruik 
+geÃ¯dentificeerd.
+Stap 4: Het creÃ«ren van het taalmodel
+Zodra de tekstgegevens zijn voorbewerkt, kunnen ze worden gebruikt om het taalmodel te creÃ«ren. Dit omvat het gebruik 
 van machine learning-algoritmen, zoals deep neural networks, om het model op de tekstgegevens te trainen. Het taalmodel 
 leert van de patronen en structuren in de tekstgegevens en gebruikt deze kennis om mensachtige antwoorden op 
 tekstprompts te genereren.
@@ -54,6 +54,11 @@ verzamelproces van gegevens".
 
 "Van Tekst tot Taalmodel: Het Verzamelproces van Gegevens voor ChatGPT"
 
-"Ontdek de geheime formule achter de meest geavanceerde AI-technologie ooit gecreëerd - 
+"Ontdek de geheime formule achter de meest geavanceerde AI-technologie ooit gecreÃ«erd - 
 ChatGPT: Het revolutionaire taalmodel dat de manier waarop we communiceren zal 
 veranderen!"
+
+Plan:
+1. Titel kiezen
+2. Inhoud samenstellen
+3. Ineteractie creÃ«ren
